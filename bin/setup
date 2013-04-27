@@ -1,0 +1,2 @@
+# Set up Ruby dependencies
+bundle install --binstubs=bin/stubs
