@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'delayed_job_active_record'
 gem 'jquery-rails'
 gem 'rails', '3.2.13'
 gem 'simple_form'
@@ -20,6 +21,9 @@ group :development, :test do
 end
 
 group :test do
+  gem 'awesome_print'
+  gem 'bourne'
+  gem 'mocha'
   gem 'capybara', '2.1.0'
   gem 'database_cleaner'
   gem 'factory_girl_rails'
