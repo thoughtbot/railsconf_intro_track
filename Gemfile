@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'delayed_job_active_record'
 gem 'jquery-rails'
 gem 'rails', '3.2.13'
 gem 'simple_form'
