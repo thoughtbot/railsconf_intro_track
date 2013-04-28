@@ -22,6 +22,8 @@ end
 
 group :test do
   gem 'awesome_print'
+  gem 'bourne'
+  gem 'mocha'
   gem 'capybara', '2.1.0'
   gem 'database_cleaner'
   gem 'factory_girl_rails'
