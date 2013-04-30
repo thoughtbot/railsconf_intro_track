@@ -6,7 +6,7 @@ http://tinyurl.com/introtdd
 
 - Run these commands from your shell:
 
-$ git clone git@github.com:your_user_name/railsconf_intro_track.git
+$ git clone git@github.com:YOUR_USER_NAME/railsconf_intro_track.git
 $ cd rails_intro_track
 $ bundle install
 $ rake db:migrate
