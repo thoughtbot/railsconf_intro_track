@@ -1,3 +1,35 @@
+
+                     Adarsh Pandit                Harlow Ward
+                 adarsh@thoughtbot.com       harlow@thoughtbot.com
+                       @adarshp                     @hrward
+
+
+                                  OZOOOOOOOOOOOOO
+                               OZOOOOO__-=-__OOOOOZO
+                             ZOOOOO._---"""---_.OOOOOZ
+                           OOOOOOOOOO_--"""--_OOOOOOOOOO
+                          OOOOOOOOOOOOZ_-"-_OOOOOOOOOOOOZ
+                         OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                        OOOOOOOOOOOOO         OOOOOOOOOOOOO
+                       8OOOOOOOOOOOOO  O   O  OOOOOOOOOOOOOO
+                       OOOOOOOOOOOOOO         OOOOOOOOOOOOOO
+                      DOOOOOOOOOOOOOOoooooooooOOOOOOOOOOOOOO
+                      OOOOOOOOOOO|               |OOOOOOOOOOZ
+                      OOOOOOOOOOO|               |OOOOOOOOOOO
+                      OOOOOOOOOOO|               |OOOOOOOOOOO
+                      OOOOOOOOOOO|  |         |  |OOOOOOOOOOO
+                      DOOOOOOOOOO|  |         |  |OOOOOOOOOO
+                       OOOOOOOOOO|  |         |  |OOOOOOOOOO
+                       DOOOOOOOO(( ))         (( ))OOOOOOOO
+                        OOOOOOOOOOOOO    _    |OOOOOOOOOOOO
+                         OOOOOOOOOOO|   | |   |OOOOOOOOOOO
+                          OOOOOOOOOO|   | |   |OOOOOOOOOZ
+                           8OOOOOOO______|______OOOOOOOO
+                             OOOOOOOOOOOOOOOOOOOOOOOOZ
+                               OOOOOOOOOOOOOOOOOOOOO
+                                  OOOOOOOOOOOOOOO
+
+
 # RailsConf 2013 Intro Track
 
 Source for the application used in the April 2013, 2013 RailsConf talk:
