@@ -6,9 +6,9 @@ Source for the application used in the April 2013, 2013 RailsConf talk:
 
 ## Setup
 
-Clone the git repo and run the setup script:
+Fork the repo and the clone it to your local system:
 
-    git clone git@github.com:harlow/railsconf_intro_track.git
+    git clone git@github.com:YOUR_USER_NAME/railsconf_intro_track.git
     cd railsconf_intro_track
     ./bin/setup
 
