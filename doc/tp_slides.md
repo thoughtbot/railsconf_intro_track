@@ -34,7 +34,7 @@ harlow@thoughtbot.com
 
 @hrward
 
-thoughtbot.com/community
+#thoughtbot.com/community
                                   OZOOOOOOOOOOOOO
                                OZOOOOO__-=-__OOOOOZO
                              ZOOOOO._---"""---_.OOOOOZ
