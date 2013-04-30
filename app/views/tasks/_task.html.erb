@@ -1,3 +1,6 @@
 <tr>
-  <td><%= task.name %></td>
+  <td class="task <%= 'completed' if task.completed_at? %>">
+    <%= task.name %>
+    <%= link_to 'Complete', task_completions_path(task), method: :post %>
+  </td>
 </tr>
