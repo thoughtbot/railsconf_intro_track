@@ -1,3 +1,4 @@
 TddIntro::Application.routes.draw do
-  root to: 'pages#home'
+  resources :tasks
+  root to: 'tasks#index'
 end
