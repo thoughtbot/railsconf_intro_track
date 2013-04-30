@@ -9,7 +9,7 @@ http://tinyurl.com/introtdd
 $ git clone git@github.com:YOUR_USER_NAME/railsconf_intro_track.git
 $ cd rails_intro_track
 $ bundle install
-$ rake db:migrate
+$ rake db:migrate db:test:prepare
 $ bundle exec rspec
 
 - If you get all green, you're ready to go
