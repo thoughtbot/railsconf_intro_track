@@ -5,6 +5,7 @@ gem 'rails', '3.2.13'
 gem 'simple_form'
 gem 'sqlite3'
 gem 'strong_parameters'
+gem 'tp'
 
 group :assets do
   gem 'sass-rails', '~> 3.2.3'
