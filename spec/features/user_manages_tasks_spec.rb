@@ -13,11 +13,18 @@ feature 'User manages tasks' do
   end
 
   scenario 'view all tasks' do
-    task_name = 'Mow the lawn'
-    Task.create!(name: task_name)
+    tasks = create_list(:task, 3)
 
     visit root_path
 
     expect(page).to have_content task_name
+  end
+
+  scenario 'user enters a long name for the task' do
+    task = create(:task, :long_name)
+
+    visit root_path
+
+    expect(page).to have_content(task.name)
   end
 end

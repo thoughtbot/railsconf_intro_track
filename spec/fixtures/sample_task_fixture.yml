@@ -1,0 +1,10 @@
+# spec/fixtures/users.yml
+john:
+  email: john@example.com
+  password_hash: [\\xAAa\\xE4\\xC9\\xB9??\\x06\\x82%\\vl\\x
+  admin: false
+
+jane:
+  email: jane@example.com
+  password_hash: [\\xAAa\\xE4\\xC9\\xB9??\\x06\\x82%\\vl\\y
+  admin: true
